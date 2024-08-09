@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Propowershell/Propowershell.github.io/tree/main)
-- Live Site URL: [Add live site URL here](https://propowershell.github.io/)
+- Solution URL: [(https://github.com/Propowershell/Propowershell.github.io/tree/main)](https://github.com/Propowershell/Propowershell.github.io/tree/main)
+- Live Site URL: [(https://propowershell.github.io/)](https://propowershell.github.io/)
 
 ## My process
 
